@@ -1,1 +1,2 @@
 stoptalking
+remote stop
