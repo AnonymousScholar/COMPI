@@ -1,2 +1,0 @@
-printf();
-added by local;
